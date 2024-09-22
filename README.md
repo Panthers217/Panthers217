@@ -2,7 +2,7 @@
 I am a passionate web and app developer from Jacksonville, North Carolina, with a strong foundation in creating user-friendly applications.
  I am eager to contribute my abilities to a dynamic team and help bring visionary ideas to life.
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panthers217)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panthers217)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Panthers217/Panthers217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
