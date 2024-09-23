@@ -13,7 +13,8 @@ I am a passionate web and app developer from Jacksonville, North Carolina, with 
 * Express 
 * Node js
 
-Examples of Work
+### Examples of Work
+<img src="https://github.com/Panthers217/Panthers217/blob/main/Marlo's%20project%20banner.png"/>
 
 
 - 🔭 I’m currently working on this page. 
