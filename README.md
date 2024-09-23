@@ -17,10 +17,10 @@ I am a passionate web and app developer from Jacksonville, North Carolina, with 
 [<img src="https://github.com/Panthers217/Panthers217/blob/main/Marlo's%20project%20banner.png"/>](https://marlorouse-dev-portfolio.netlify.app)
 
 
-- 🔭 I’m currently working on this page. 
+ 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/marlo-rouse-80125b23b)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://marlorouse-dev-portfolio.netlify.app/)  
+#### Social Media
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/marlo-rouse-80125b23b) 
 
 
  
