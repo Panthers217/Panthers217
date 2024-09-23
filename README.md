@@ -6,7 +6,7 @@ I am a passionate web and app developer from Jacksonville, North Carolina, with 
  I am eager to contribute my abilities to a dynamic team and help bring visionary ideas to life.
 
 ### Skills and Experience
-*REACT 
+**REACT 
 *JS 
 *HTML 
 *CSS 
