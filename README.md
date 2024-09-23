@@ -14,7 +14,7 @@ I am a passionate web and app developer from Jacksonville, North Carolina, with 
 * Node js
 
 ### Examples of Work
-<img src="https://github.com/Panthers217/Panthers217/blob/main/Marlo's%20project%20banner.png" href="https://marlorouse-dev-portfolio.netlify.app/projects"/>
+[<img src="https://github.com/Panthers217/Panthers217/blob/main/Marlo's%20project%20banner.png"/>](https://marlorouse-dev-portfolio.netlify.app/projects)
 
 
 - 🔭 I’m currently working on this page. 
